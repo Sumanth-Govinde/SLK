@@ -1,4 +1,4 @@
-# SLK
+# TrainingSessions
 Core java
-Training programs conducted by SLK software services
+Includes basic code and assignments to understand core Java.
 -Sumanth Govinde
